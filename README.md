@@ -10,7 +10,7 @@ Finding reliable off-campus housing is a major challenge for students. This proj
 * **Design & Planning:** Figma, Trello
 
 ## The Team
-* Khanyisile Ngubo - TBD
-* [Team Member 2] - TBD
-* [Team Member 3] - TBD
-* [Team Member 4] - TBD
+* Khanyisile Ngubo - Role TBD
+* [Team Member 2] - Role TBD
+* [Team Member 3] - Role TBD
+* [Team Member 4] - Role TBD
